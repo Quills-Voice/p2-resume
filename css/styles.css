@@ -1,0 +1,86 @@
+/* Your Website Styles */
+body {
+	background: #ccc;
+	font-family: 'Lora', serif;
+	border: solid;
+	padding: 10px 10px;
+	margins: 50px, 50px;
+
+}
+
+
+
+
+
+
+blockquote {
+	font-family: gabriola;
+	text-align: right;
+	font-size: 26px;
+	font-variant: small-caps;
+	white-space: pre-line;
+
+
+
+}
+
+.email {
+	width: 490px;
+	margin: 0 20px 10px 0;
+	float: left;
+}
+
+h1 {
+	font-family: Felix Titling;
+	font-size: 80px;
+	text-transform: uppercase;
+	width: 1000px;
+	margin: 0 20px 10px 0;
+	float: right;
+}
+
+h3 {
+	text-align: center;
+	width: 320px;
+	margin: 0 20px 10x 0;
+	
+}
+
+img {
+	border: solid black thick;
+	opacity: .39;
+	width: 1000px;
+	margin: 0 20px 10px 0;
+
+
+	}
+
+ul {
+	
+	list-style-type: square;
+	section: last-child;
+
+}
+
+ul li {
+	width: 320px;
+	margin: 0 20px 10x 0;
+	padding: 10px;
+
+
+}
+
+
+
+p {
+	width: 320px;
+	margin: 0 20px 10x 0;
+	white-space: pre-line;
+	padding: 10px 0;
+}
+
+
+
+
+
+/* Show Grid */
